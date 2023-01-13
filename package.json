@@ -1,0 +1,9 @@
+{
+  "name": "web3sdks-auth-express",
+  "repository": "https://github.com/web3sdks-template/web3sdks-auth-express.git",
+  "license": "Apache-2.0",
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "server": "cd express && npm run dev"
+  }
+}
